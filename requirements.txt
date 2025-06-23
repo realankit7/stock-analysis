@@ -7,4 +7,4 @@ prophet
 statsmodels
 scikit-learn
 keras
-tensorflow-cpu
+tensorflow-cpu==2.15.1
