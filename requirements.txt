@@ -1,10 +1,10 @@
 streamlit
 pandas
-numpy
+numpy<2.0.0
 matplotlib
 yfinance
 prophet
 statsmodels
 scikit-learn
-keras
+keras==2.15.0
 tensorflow-cpu==2.15.1
