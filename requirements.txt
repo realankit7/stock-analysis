@@ -1,10 +1,7 @@
-streamlit
-pandas
-numpy<2.0.0
-matplotlib
-yfinance
-prophet
-statsmodels
-scikit-learn
-keras==2.15.0
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+yfinance==0.2.36
+prophet==1.1.5
 tensorflow-cpu==2.15.1
+keras==2.15.0
